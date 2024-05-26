@@ -1,0 +1,11 @@
+name: test_bench
+
+description: Dart test bench
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  uuid: ^4.4.0
